@@ -1,5 +1,7 @@
 <?php
 
-    echo "Olá Brasil!";
+    echo "Olá Brasil 123!";
+
+    echo "Olá Mundo!";
 
 ?>
